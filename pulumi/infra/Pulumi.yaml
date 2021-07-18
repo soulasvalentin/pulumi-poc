@@ -1,0 +1,3 @@
+name: aws-pulumi-poc
+runtime: dotnet
+description: A minimal AWS C# Pulumi program
